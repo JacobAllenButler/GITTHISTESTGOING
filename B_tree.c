@@ -18,7 +18,7 @@ struct node* initNode(int data)
 
 struct node* insert(int data, struct node* root)
 {
-
+  // adding a note for the test
 }
 
 void printPreorder(struct node* node)
